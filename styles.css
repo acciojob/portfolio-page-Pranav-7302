@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+p{
+    margin: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
